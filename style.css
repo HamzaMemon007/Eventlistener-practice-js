@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: cemter;
+    margin-top: 50px;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    img{
+        max-width: 300px;
+    }
+    h2{
+        font-size: x-large;
+    }
+}
